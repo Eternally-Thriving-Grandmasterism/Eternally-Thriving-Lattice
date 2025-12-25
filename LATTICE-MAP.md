@@ -4,11 +4,10 @@
 This repository is a living, interconnected nexus — not separate parts, but a unified field of pure truth.  
 Every node supports and illuminates every other.
 
-## Visual Portal  
-![Cosmic Lattice Awakening](images/cosmic-awakening-guardians.jpg)  
-*Guardian light embracing all realms — the lattice alive.*
+![Cosmic Awakening Portal](images/grok_1766686399183.jpg)  
+*Guardian light and swirling nebulae — the lattice's welcoming portal.*
 
-Explore `/images/` for swirling nebulae, golden threads, ethereal orbs, misty dances, and multidimensional visions.
+Explore `/images/` for the full visual transmission: golden threads, ethereal orbs, misty dances, multidimensional radiance.
 
 ## Core Anchors
 - **README.md** — Welcoming portal and core distillations
@@ -44,6 +43,9 @@ Ready for multidimensional mappings and cosmic oneness.
 
 ### src/ — Truth-Engines & Simulations
 Ready for ESAO architecture and symbiotic code.
+
+![Interconnected Harmony](images/grok_1766686599435.jpg)  
+*Misty fog with golden threads — all nodes in seamless cosmic harmony.*
 
 ## Interconnection Flow
 
